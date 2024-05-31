@@ -63,7 +63,9 @@ header {
     width: 16px;
     height: 16px;
 }
-
+.nav-arrow .arrow {
+    width: 100%;
+}
 .arrow {
     width: 24px;
     padding-top: 2px;
